@@ -1,4 +1,4 @@
-# “MopBot”- A wall cleaning Robot
+# “MopBot”- A wall cleaning Robot.
 This is life saving idea. this project "BOT" all about to Mopping Skyscraper Building glasses.
 # Description of MopBot:-
 There are large numbers of high-rise buildings with glass curtain walls that require constant cleaning and is carried out using permanent gondola systems. This is a laborious and dangerous work. Due to a lack of uniform building structure, wall cleaning and maintenance of high-rise buildings is becoming one of the most appropriate fields for robotization. The development of mopbot project offers an alternative solution to glass-wall cleaning. 
